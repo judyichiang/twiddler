@@ -1,0 +1,38 @@
+
+body {
+	background:#75baff;
+	/*margin: 10px;*/
+}
+div {
+    display: flex;
+    justify-content: center;
+	background: #e3f1ff;
+	margin-top: 20px;
+	margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: solid 4px;
+    border-radius: 10px; 
+}
+span {
+	display: flex;
+	justify-content: flex-start;
+	color: purple;
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+	background-color: #c6cfcf;
+	margin-left: 400px;
+	margin-right: 400px;
+	border: solid 10px;
+	border-radius: 20px;
+	border-color: purple;
+}
+
+/*button { 
+	display: flex;
+	justify-content: : center;
+}*/
